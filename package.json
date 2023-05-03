@@ -1,0 +1,34 @@
+{
+  "name": "smegle-light-koipond",
+  "version": "1.0.0",
+  "description": "Object-Relational Mapping (ORM): challenging to do an E-Commerce back end\r ## Table of Contents\r * [Features](#features)\r * [License(s)](#license)\r * [Languages](#languages)\r * [Dependencies](#dependencies)\r * [How to use this application](#HowtoUseThisApplication)\r * [Testing](#testing)\r * [Contributors](#contributors)\r * [Questions](#questions)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jHopkins42/smegle-light-koipond.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/jHopkins42/smegle-light-koipond/issues"
+  },
+  "homepage": "https://github.com/jHopkins42/smegle-light-koipond#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "node": "^20.0.0",
+    "nodemon": "^2.0.22",
+    "sequelize": "^5.21.7"
+  }
+}
