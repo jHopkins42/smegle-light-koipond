@@ -1,7 +1,7 @@
 # smegle-light-koipond
 
 ## description
-Object-Relational Mapping (ORM): challenging to do an E-Commerce back end
+Object-Relational Mapping (ORM): challenge to do an E-Commerce back end
 ## Table of Contents
 * [Features](#features)
 * [License(s)](#license)
@@ -19,14 +19,14 @@ MIT
 # Languages
 markdown, javascript, node.js
 # Dependencies
-inquirer, jest
+inquirer, jest, MYSQL, Sequelize
 # What's this button for? (or How to Use this Application)
-creates an HTML page of employee role and contact data
+Establishing an E-Commerce backend to a retail database
 # How amazingly does it do it?
 average
 # Testing
-_test_ directory
+N/A
 # Contributors
 N/A
 # Questions
-If you have questions, you can reach this Jeremy Hopkins at github.com/jhopkins42/TeamEmeraldSky, otherwise contact the file user by email at: jeremy.hopkins.547@outlook.com
+If you have questions, you can reach this Jeremy Hopkins at github.com/jhopkins42/smegle-light-koipond, otherwise contact the file user by email at: jeremy.hopkins.547@outlook.com
